@@ -1709,31 +1709,31 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/cli@npm:13.1.0":
-  version: 13.1.0
-  resolution: "@commitlint/cli@npm:13.1.0"
+"@commitlint/cli@npm:13.2.1":
+  version: 13.2.1
+  resolution: "@commitlint/cli@npm:13.2.1"
   dependencies:
-    "@commitlint/format": ^13.1.0
-    "@commitlint/lint": ^13.1.0
-    "@commitlint/load": ^13.1.0
-    "@commitlint/read": ^13.1.0
-    "@commitlint/types": ^13.1.0
+    "@commitlint/format": ^13.2.0
+    "@commitlint/lint": ^13.2.0
+    "@commitlint/load": ^13.2.1
+    "@commitlint/read": ^13.2.0
+    "@commitlint/types": ^13.2.0
     lodash: ^4.17.19
     resolve-from: 5.0.0
     resolve-global: 1.0.0
     yargs: ^17.0.0
   bin:
     commitlint: cli.js
-  checksum: 70d2a5e083c9362bdc4351125976c6052719c7b59c41ae6837193455ad288af4f92e70e30675777a4ba2e069db7b83462016fa076f961d015a4e294ca62a676b
+  checksum: 41b74874ec3e3b1da69f07710ea080654017d6e9a73d98d06c061259bb255e09a4870a516da0ee92f86776f030e608eb797cdd44dac804c39f2f32e798e81a60
   languageName: node
   linkType: hard
 
-"@commitlint/config-conventional@npm:13.1.0":
-  version: 13.1.0
-  resolution: "@commitlint/config-conventional@npm:13.1.0"
+"@commitlint/config-conventional@npm:13.2.0":
+  version: 13.2.0
+  resolution: "@commitlint/config-conventional@npm:13.2.0"
   dependencies:
     conventional-changelog-conventionalcommits: ^4.3.1
-  checksum: c3c5313efa8eb57fa8456537de812cbfcf3406dde7911184dc047c5ed3979788c69f504a31feb0880cf70f1138311a3d52423822e4818783450934a7c5f8fef8
+  checksum: fd659269fe31df17bf479b90e915e063c7dc61b795396458d403c4154f037e152ad015463c078a881af18456c638ab3b6c1b67966abc42b131e5a900ad3c2753
   languageName: node
   linkType: hard
 
@@ -1754,7 +1754,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/format@npm:^13.1.0":
+"@commitlint/format@npm:^13.2.0":
   version: 13.2.0
   resolution: "@commitlint/format@npm:13.2.0"
   dependencies:
@@ -1774,7 +1774,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/lint@npm:^13.1.0":
+"@commitlint/lint@npm:^13.2.0":
   version: 13.2.0
   resolution: "@commitlint/lint@npm:13.2.0"
   dependencies:
@@ -1786,7 +1786,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/load@npm:^13.1.0":
+"@commitlint/load@npm:^13.2.1":
   version: 13.2.1
   resolution: "@commitlint/load@npm:13.2.1"
   dependencies:
@@ -1821,7 +1821,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/read@npm:^13.1.0":
+"@commitlint/read@npm:^13.2.0":
   version: 13.2.0
   resolution: "@commitlint/read@npm:13.2.0"
   dependencies:
@@ -1874,7 +1874,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/types@npm:^13.1.0, @commitlint/types@npm:^13.2.0":
+"@commitlint/types@npm:^13.2.0":
   version: 13.2.0
   resolution: "@commitlint/types@npm:13.2.0"
   dependencies:
@@ -6151,8 +6151,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cra-template-rb@workspace:."
   dependencies:
-    "@commitlint/cli": 13.1.0
-    "@commitlint/config-conventional": 13.1.0
+    "@commitlint/cli": 13.2.1
+    "@commitlint/config-conventional": 13.2.0
     "@reduxjs/toolkit": 1.8.4
     "@testing-library/jest-dom": 5.16.5
     "@testing-library/react": 13.3.0
